@@ -1,0 +1,76 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/andre/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/andre/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/andre/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/andre/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/andre/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/andre/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/andre/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/andre/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/andre/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/andre/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/andre/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/andre/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/andre/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/andre/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/andre/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/andre/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/andre/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/andre/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/andre/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/andre/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/andre/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/andre/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/Desenvolvimento/Java/Crud-WEB/CrudLivros/src/main/java;D:/Desenvolvimento/Java/Crud-WEB/CrudLivros/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Desenvolvimento/Java/Crud-WEB/CrudLivros/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CrudLivros-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/Desenvolvimento/Java/Crud-WEB/CrudLivros/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CrudLivros-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.crudlivros
+com.mycompany.crudlivros.resources
+models
+C:\Users\andre\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1730675592756
+C:\Users\andre\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1730675592852
+C:\Users\andre\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1730675592914
+C:\Users\andre\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1730675592886
+C:\Users\andre\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1730675592898
+C:\Users\andre\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1730674505485
+C:\Users\andre\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1730675592938
+C:\Users\andre\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1730674505659
+C:\Users\andre\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1730675593018
+C:\Users\andre\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1730675593261
+C:\Users\andre\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1730674506132
+C:\Users\andre\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1730674506002
+C:\Users\andre\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1730675593114
+C:\Users\andre\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1730674505411
+C:\Users\andre\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1730674505612
+C:\Users\andre\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1730675592960
+C:\Users\andre\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1730675592987
+C:\Users\andre\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1730675593150
+C:\Users\andre\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1730675593037
+C:\Users\andre\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1730675593259
+C:\Users\andre\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1730674506132
+C:\Users\andre\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1730675593383
+C:\Users\andre\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1730675593161
+C:\Users\andre\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1730674506090
+C:\Users\andre\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1730675593198
+C:\Users\andre\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1730675593217
+C:\Users\andre\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1730674506182
+C:\Users\andre\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1730675593405
+C:\Users\andre\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1730674506737
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\src\main\java = 1737246529163
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\generated-sources\annotations = 1730675630906
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\allclasses-index.html = 1737247430256
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\allpackages-index.html = 1737247430259
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\element-list = 1737247430196
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\help-doc.html = 1737247430278
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\index-all.html = 1737247430269
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\index.html = 1737247430246
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\member-search-index.js = 1737247430261
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\module-search-index.js = 1737247430260
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\overview-summary.html = 1737247430273
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\overview-tree.html = 1737247430242
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\package-search-index.js = 1737247430260
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\search.html = 1737247430270
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\tag-search-index.js = 1737247430261
+D:\Desenvolvimento\Java\Crud-WEB\CrudLivros\target\reports\apidocs\type-search-index.js = 1737247430261

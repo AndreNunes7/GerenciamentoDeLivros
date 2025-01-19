@@ -1,0 +1,3 @@
+com\mycompany\crudlivros\JakartaRestConfiguration.class
+models\Livro.class
+com\mycompany\crudlivros\resources\JakartaEE10Resource.class

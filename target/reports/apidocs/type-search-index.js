@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.crudlivros.resources","l":"JakartaEE10Resource"},{"p":"com.mycompany.crudlivros","l":"JakartaRestConfiguration"},{"p":"models","l":"Livro"}];updateSearchResults();
